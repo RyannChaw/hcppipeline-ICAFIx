@@ -1,4 +1,4 @@
-# hcppipeline-ICAFIx run in ubuntu 20.04
+# hcppipeline-ICAfix error run in ubuntu 20.04
 ##to sovle the problem when running hcppipeline ICA_fix
 registration of standard space masks
  extract features
