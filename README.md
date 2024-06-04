@@ -63,6 +63,7 @@ In i.p(...) :
 
 ###That means you lack gfortran
 Then you can solve it by entering the following code in the terminal:
+
 sudo apt-get install aptitude
 sudo aptitude install gfortran
 
